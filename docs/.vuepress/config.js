@@ -15,14 +15,11 @@ module.exports = {
 		"@vssue/vuepress-plugin-vssue": {
 			// 设置 `platform` 而不是 `api`
 			platform: "github",
-
-			// 其他的 Vssue 配置
 			owner: "zhaoxiaozhang",
 			repo: "heimao-doc",
 			clientId: "896653867ed5549856a0",
-			clientSecret: "d5c2f38e6c4deb05e0dd06d83ac764c7a71f8cf5",
+			clientSecret: "2e2b01264bd892210837e638080ec9965360039b",
 			autoCreateIssue: true,
-			// baserUrl: "https://gitee.com",
 			locale: "zh",
 		},
 	},

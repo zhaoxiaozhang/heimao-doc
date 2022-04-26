@@ -12,11 +12,9 @@ features:
     details: 不在依赖传统的QQ框架运行软件，从而避免框架频繁出现卡死情况。
   - title: 功能强大
     details: 一个软件多种功能，集群管、娱乐于一体。解放双手，轻松管理。
-footer: Copyright © 2022-北方的文先生 | 陇ICP备2022000916号-2
+# footer: Copyright © 2022-北方的文先生 |
 ---
 
-<Vssue />
-
 ::: slot footer
-MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
+Copyright © 2022-北方的文先生 | [陇 ICP 备 2022000916 号-2](#)
 :::
