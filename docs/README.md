@@ -15,6 +15,8 @@ features:
 footer: Copyright © 2022-北方的文先生 | 陇ICP备2022000916号-2
 ---
 
+<Vssue />
+
 ::: slot footer
 MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
 :::
